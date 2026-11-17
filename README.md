@@ -2,24 +2,24 @@
 
 🛍️ E-Commerce Sales & Customer Analytics Dashboard
 
-Turning E-Commerce Data into Meaningful Business Insights
+Transforming E-Commerce Data into Actionable Business Insights
 
-
-
-
-
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Data-Analytics-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Project-Completed-success?style=for-the-badge" />
 
 </div>
 
-🛒 About the Project
+📌 1. Project Overview
 
 This project focuses on analyzing e-commerce sales and customer data using Microsoft Power BI.
 
 An interactive dashboard was developed to monitor business performance, analyze sales trends, understand product category performance, and track order statuses.
 
-The goal is to transform raw e-commerce data into meaningful insights that support better business decisions.
+The main objective is to transform raw e-commerce data into meaningful insights that support data-driven business decisions.
 
-📂 Dataset Overview
+📂 2. Dataset Overview
 
 The dataset contains e-commerce transaction information, including:
 
@@ -39,7 +39,7 @@ Customer-related information
 
 The dataset required data cleaning and transformation before analysis.
 
-🎯 Business Objectives
+🎯 3. Business Objectives
 
 Analyze overall revenue and sales performance.
 
@@ -53,11 +53,11 @@ Monitor completed and cancelled orders.
 
 Evaluate overall order performance.
 
-🧹 Data Cleaning & Preparation
+🧹 4. Data Cleaning & Preparation
 
 Data preparation was performed using Power Query Editor in Power BI.
 
-Key steps included:
+The following steps were carried out:
 
 Promoting headers.
 
@@ -75,9 +75,9 @@ Removing unnecessary columns.
 
 Renaming columns for better readability.
 
-📊 Key Performance Indicators
+📊 5. Key Performance Indicators (KPIs)
 
-The dashboard tracks the following KPIs:
+The dashboard tracks the following key metrics:
 
 💰 Total Revenue
 
@@ -91,17 +91,17 @@ The dashboard tracks the following KPIs:
 
 ❌ Cancelled Orders
 
-📸 Dashboard Preview
+🖥️ 6. Dashboard Preview
 
 <div align="center">
 
+<img src="E-commerce_Dashboard.png.png" alt="E-Commerce Power BI Dashboard" width="100%" />
 
-
-Interactive E-Commerce Sales & Customer Analytics Dashboard
+E-Commerce Sales & Customer Analytics Dashboard
 
 </div>
 
-🔍 Key Business Findings
+🔍 7. Key Business Findings
 
 Based on the dashboard analysis:
 
@@ -119,7 +119,7 @@ Cancelled orders: 15.
 
 These metrics provide an overview of sales performance and order status.
 
-💡 Business Recommendations
+💡 8. Business Recommendations
 
 Investigate the reasons behind cancelled orders.
 
@@ -131,49 +131,47 @@ Analyze payment preferences to improve the checkout experience.
 
 Improve order completion rates through better order monitoring.
 
-🛠️ Tools & Technologies
+🛠️ 9. Tools & Technologies
 
-Microsoft Power BI
+Microsoft Power BI – Dashboard development and visualization.
 
-Power Query Editor
+Power Query Editor – Data cleaning and transformation.
 
-DAX
+DAX – KPI calculations and measures.
 
-Microsoft Excel
+Microsoft Excel – Dataset handling and preparation.
 
-Data Cleaning
+🚀 10. How to Explore This Project
 
-Data Visualization
-
-🚀 How to Explore This Project
-
-Download the .pbix dashboard file from this repository.
+Download the Power BI .pbix file from this repository.
 
 Open it using Microsoft Power BI Desktop.
 
 Explore the interactive visuals, KPIs, and business insights.
 
-📁 Project Files
+📁 11. Project Files
 
-Power BI Dashboard: Interactive dashboard file.
+E-Commerce Sales & Customer Analytics Dashboard.pbix – Interactive Power BI dashboard.
 
-Dataset: E-commerce sales dataset used for analysis.
+messy_ecommerce_sales_data-selected-columns(1).csv – Dataset used for analysis.
 
-Dashboard Preview: Screenshot of the completed dashboard.
+E-commerce_Dashboard.png.png – Dashboard preview.
 
-README: Project documentation.
+README.md – Project documentation.
 
-👩‍💻 About the Author
+👩‍💻 12. About the Author
 
 Devika Sutar
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
-
-
 <div align="center">
 
-⭐ Thank you for visiting my project!
+<a href="https://www.linkedin.com/in/devika-sutar-692483428/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+⭐ Thank You for Visiting My Project!
 
 Learning • Analyzing • Improving
 
